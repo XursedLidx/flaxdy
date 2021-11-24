@@ -49,4 +49,4 @@ npm i flaxdy
 * added splits function.
 * added clear function.
 * added url to library`s github repository.
-* <p>Now you can see some examples on github page!</p>
+* <p>Now you can see some examples on github page in directory 'examples'!</p>
