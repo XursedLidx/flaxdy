@@ -43,3 +43,10 @@ npm i flaxdy
 * added delete function
 * added cache function.
 * <p>If you want, you can save some data in the object, and after saving you won't be able to change it, I think it might be useful))</p>
+
+### ~ 0.3.0
+
+* added splits function.
+* added clear function.
+* added url to library`s github repository.
+* <p>Now you can see some examples on github page!</p>
