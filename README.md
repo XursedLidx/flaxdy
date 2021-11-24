@@ -42,4 +42,4 @@ npm i flaxdy
 * some code has been optimized. Now it's a little faster and smaller.
 * added delete function
 * added cache function.
-<p>If you want, you can save some data in the object, and after saving you won't be able to change it, I think it might be useful))</p>
+** <p>If you want, you can save some data in the object, and after saving you won't be able to change it, I think it might be useful))</p>
