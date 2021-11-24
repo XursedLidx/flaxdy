@@ -1,0 +1,23 @@
+{
+  "name": "flaxdy",
+  "version": "0.2.0",
+  "description": "simple library to work with some data",
+  "main": "index.js",
+  "keywords": [
+    "object",
+    "objects",
+    "setter",
+    "set",
+    "add",
+    "adder",
+    "js",
+    "nodejs",
+    "ES6",
+    "ES7"
+  ],
+  "author": {
+    "name": "XursedLidx",
+    "email": "xursed.lidx@gmail.com"
+  },
+  "license": "MIT"
+}
