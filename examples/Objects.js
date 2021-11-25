@@ -22,6 +22,15 @@ let userInfo2 = {
 
 userInfo2.add('job', 'souvenir seller') /* now userInfo2 has that field */
 
+/* - Deletes function - */
+const user = {
+  status: 'online',
+  role: 'moderator',
+  unknown: 'undefined'
+}
+
+user.deletes('unknown')
+
 /* - Cache function - */
 let oldUserAccount = {
   name: 'Kent',
@@ -54,3 +63,15 @@ let userInfo3 = {
 userInfo3.clear('boolean')
 
 console.log(userInfo3) // => { name: 'Alex', age: 56, city: 'New York' }
+
+/* - Concat function - */
+let userInfo4 = {
+  name: 'Marty',
+  age: 34,
+  status: 'online'
+}
+
+userInfo4.concat('job', {
+  name: 'programmer',
+  salary: '1000$'
+})
