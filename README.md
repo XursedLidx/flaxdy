@@ -34,7 +34,7 @@ npm i flaxdy
 ### ~ 0.1.0
 
 * added the add function))
-* added LICENSE file
+* added `LICENSE` file
 
 ### ~ 0.2.0
 
