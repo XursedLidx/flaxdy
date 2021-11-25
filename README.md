@@ -68,7 +68,7 @@ npm i flaxdy
 ### ~ 2.0.0
 
 * Fixed some mistakes with README:
-  * Some grammer mistakes.
+  * Some grammatical mistakes.
   * New README-style.
 * Added new function for objects:
   * Added concat function, which will attach new object in your object.
