@@ -53,7 +53,7 @@ npm i flaxdy
 
 ### ~ 1.0.0
 
-* Added to function for arrays.
+* Added two function for arrays.
 * Files splits by function ownership.
-* Adde utilities - Type function.
+* Added utilities - Type function.
 * Examples on github split by function ownership.
