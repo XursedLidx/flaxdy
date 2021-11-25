@@ -19,7 +19,7 @@ if ((date.getDate() + (date.getMonth() + 1)).toString() === userInfo.birthDate) 
 
 ## [Discription].
 
-<p>A simple, gradually developing library for interacting with different types of data</p>
+<p>A simple, gradually developing library for interacting with different types of data. For example - Objects and Arrays. And library have own utilities!</p>
 
 ## [Install].
 
@@ -50,3 +50,10 @@ npm i flaxdy
 * added clear function.
 * added url to library`s github repository.
 * <p>Now you can see some examples on github page in directory 'examples'!</p>
+
+### ~ 1.0.0
+
+* Added to function for arrays.
+* Files splits by function ownership.
+* Adde utilities - Type function.
+* Examples on github split by function ownership.
