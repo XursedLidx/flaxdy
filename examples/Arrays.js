@@ -11,9 +11,14 @@ if (userInfo.jobs.has('Middle')) {
   send(userInfo.name, 'to', 'DATA_BASE_MIDDLES')
 }
 
-/* - SuperPush function - */
+/* - SPush function - */
 let simpleArray = [1, 2, 3, 4]
 
-simpleArray.superPush([5, 6, 7, 8])
+simpleArray.sPush([5, 6, 7, 8])
 
 console.log(simpleArray) // => [1, 2, 3, 4, 5, 6, 7, 8]
+
+/* - IndexesOf - */
+let numbersArray = [1, 2, 3, 4, 4, 5, 5]
+
+console.log(numbersArray.indexesOf([4, 5])) // => [3, 4, 5, 6]
