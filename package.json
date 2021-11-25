@@ -1,20 +1,21 @@
 {
   "name": "flaxdy",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "simple library to work with some data",
   "main": "index.js",
   "keywords": [
-    "object",
-    "objects",
-    "setter",
-    "set",
-    "add",
-    "adder",
-    "js",
-    "nodejs",
-    "ES6",
-    "ES7"
+    "object", "objects",
+    "setter", "set",
+    "add", "adder",
+    "utils", "utilities", "type",
+    "array", "arrays",
+    "js", "nodejs",
+    "ES6", "ES7"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XursedLidx/flaxdy"
+  },
   "author": {
     "name": "XursedLidx",
     "email": "xursed.lidx@gmail.com"
