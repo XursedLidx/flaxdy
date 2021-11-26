@@ -1,6 +1,6 @@
 {
   "name": "flaxdy",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "Simple, minimalistic library for work with data.",
   "main": "index.js",
   "directories": {
@@ -9,8 +9,10 @@
   },
   "keywords": [
     "object", "objects",
-    "utils", "utilities", 
-    "type", "merge",
+    "utils", "utilities",
+    "string", "strings", 
+    "type", "merge", "assert",
+    "validate", "validator", "isEmail",
     "array", "arrays",
     "js", "nodejs",
     "ES6", "ES7"
